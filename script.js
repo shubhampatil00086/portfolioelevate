@@ -99,7 +99,7 @@ const projects = [
     id: 1,
     title: "Event Announcement Poster",
     category: "Posters",
-    image: "portfolio/poster-01.webp",
+    image: "portfolio/poster-01.jpg",
     description: "Event announcement poster with clear hierarchy and bold typography.",
     featured: true
   },
@@ -107,28 +107,28 @@ const projects = [
     id: 2,
     title: "Brand Promotion Poster",
     category: "Posters",
-    image: "portfolio/poster-02.webp",
+    image: "portfolio/poster-02.jpg",
     description: "Promotional poster designed to communicate a brand message at a glance."
   },
   {
     id: 3,
     title: "Festival Greeting Poster",
     category: "Posters",
-    image: "portfolio/poster-03.webp",
+    image: "portfolio/poster-03.jpg",
     description: "Festive greeting creative for social media and print."
   },
   {
     id: 4,
     title: "Campaign Poster Concept",
     category: "Posters",
-    image: "portfolio/poster-04.webp",
+    image: "portfolio/poster-04.jpg",
     description: "Concept poster created for a promotional campaign."
   },
   {
     id: 5,
     title: "Sports Tournament Poster",
     category: "Sports / Events",
-    image: "portfolio/poster-05.webp",
+    image: "portfolio/poster-05.jpg",
     description: "Tournament promotional poster design.",
     featured: true
   },
@@ -136,14 +136,14 @@ const projects = [
     id: 6,
     title: "Match Day Creative",
     category: "Sports / Events",
-    image: "portfolio/poster-06.webp",
+    image: "portfolio/poster-06.jpg",
     description: "Match day announcement creative for digital and print use."
   },
   {
     id: 7,
     title: "Brand Identity Concept",
     category: "Branding",
-    image: "portfolio/poster-07.webp",
+    image: "portfolio/poster-07.jpg",
     description: "Visual identity concept covering logo, colour and typography.",
     featured: true
   },
@@ -151,7 +151,7 @@ const projects = [
     id: 8,
     title: "Social Media Post Series",
     category: "Social Media",
-    image: "portfolio/poster-08.webp",
+    image: "portfolio/poster-08.jpg",
     description: "A consistent series of social media creatives.",
     featured: true
   },
@@ -159,7 +159,7 @@ const projects = [
     id: 9,
     title: "Sponsor Thank-You Creative",
     category: "Sponsorship",
-    image: "portfolio/poster-09.webp",
+    image: "portfolio/poster-09.jpg",
     description: "Sponsorship creative recognising event partners.",
     featured: true
   },
@@ -167,7 +167,7 @@ const projects = [
     id: 10,
     title: "Logo Design Concept",
     category: "Logos",
-    image: "portfolio/poster-10.webp",
+    image: "portfolio/poster-10.jpg",
     description: "Simple, memorable logo concept for a new brand.",
     featured: true
   },
@@ -175,14 +175,14 @@ const projects = [
     id: 11,
     title: "Promo Video Thumbnail",
     category: "Video",
-    image: "portfolio/poster-11.webp",
+    image: "portfolio/poster-11.jpg",
     description: "Thumbnail and cover design for a promotional video edit."
   },
   {
     id: 12,
     title: "Custom Graphic Design",
     category: "Other",
-    image: "portfolio/poster-12.webp",
+    image: "portfolio/poster-12.jpg",
     description: "Custom graphic design created to a specific brief."
   }
 
